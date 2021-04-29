@@ -5,6 +5,7 @@
   - Lab: [Creating a Data Transformation Pipeline with Cloud Dataprep](https://google.qwiklabs.com/focuses/4415?parent=catalog)
   - Lab: [Building an IoT Analytics Pipeline on Google Cloud](https://google.qwiklabs.com/focuses/605?parent=catalog)
   - Lab: [ETL Processing on Google Cloud Using Dataflow and BigQuery](https://google.qwiklabs.com/focuses/3460?parent=catalog)
+  - Lab: [Predict Visitor Purchases with a Classification Model in BQML](https://google.qwiklabs.com/focuses/1794?parent=catalog)
 
 
 https://amazon.qwiklabs.com/catalog
