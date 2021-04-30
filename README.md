@@ -6,6 +6,7 @@
   - Lab: [Building an IoT Analytics Pipeline on Google Cloud](https://google.qwiklabs.com/focuses/605?parent=catalog)
   - Lab: [ETL Processing on Google Cloud Using Dataflow and BigQuery](https://google.qwiklabs.com/focuses/3460?parent=catalog)
   - Lab: [Predict Visitor Purchases with a Classification Model in BQML](https://google.qwiklabs.com/focuses/1794?parent=catalog)
+  - Lab: [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://google.qwiklabs.com/focuses/3528?parent=catalog)
 
 
 https://amazon.qwiklabs.com/catalog
