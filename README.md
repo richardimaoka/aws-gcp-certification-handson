@@ -1,13 +1,26 @@
 ## Google Professional Data Engineer学習プログラム 
 [スマート アナリティクスとデータ管理](https://cloud.google.com/training/data-ml?hl=ja#data-engineer-learning-path)
 
+- Quest: [Cloud リソースの作成と管理](https://google.qwiklabs.com/quests/120)
+  - Set Up Network and HTTP Load Balancers
+  - Create and Manage Cloud Resources: Challenge Lab
+- Quest: [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://google.qwiklabs.com/quests/117)
+  - AI Platform: Qwik Start
+  - Dataprep: Qwik Start
+  - Dataflow: Qwik Start - Templates
+  - Dataflow: Qwik Start - Python
+  - Dataproc: Qwik Start - Console
+  - Dataproc: Qwik Start - Command Line
+  - Cloud Natural Language API: Qwik Start
+  - Google Cloud Speech API: Qwik Start
+  - Video Intelligence: Qwik Start
+  - Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab
 - Quest: [Engineer Data in Google Cloud](https://google.qwiklabs.com/quests/132)
   - Lab: [Creating a Data Transformation Pipeline with Cloud Dataprep](https://google.qwiklabs.com/focuses/4415?parent=catalog)
   - Lab: [Building an IoT Analytics Pipeline on Google Cloud](https://google.qwiklabs.com/focuses/605?parent=catalog)
   - Lab: [ETL Processing on Google Cloud Using Dataflow and BigQuery](https://google.qwiklabs.com/focuses/3460?parent=catalog)
   - Lab: [Predict Visitor Purchases with a Classification Model in BQML](https://google.qwiklabs.com/focuses/1794?parent=catalog)
   - Lab: [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://google.qwiklabs.com/focuses/3528?parent=catalog)
-
 
 https://amazon.qwiklabs.com/catalog
 
