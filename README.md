@@ -27,6 +27,13 @@
 - Quest: [Build and Optimize Data Warehouses with BigQuery](https://google.qwiklabs.com/quests/147)
 https://amazon.qwiklabs.com/catalog
 
+## [AWS](https://amazon.qwiklabs.com/catalog)
+
+- [Quest: Storage & CDN](https://amazon.qwiklabs.com/quests/9)
+- [Quest: Serverless Design with AWS Lambda](https://amazon.qwiklabs.com/quests/17)
+- [Quest: Serverless Web Apps Using Amazon Dynamo DB](https://amazon.qwiklabs.com/quests/21)
+- [Quest: Big Data on AWS](https://amazon.qwiklabs.com/quests/5)
+
 - [Introduction to AWS Identity and Access Management (IAM)](https://amazon.qwiklabs.com/focuses/15717?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Afalse%7D&parent=catalog)
 - [Introduction to Amazon API Gateway](https://amazon.qwiklabs.com/focuses/10383?parent=catalog)
 - [Introduction to Amazon DynamoDB](https://amazon.qwiklabs.com/focuses/14815?parent=catalog)
