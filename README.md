@@ -1,8 +1,8 @@
 ## Google Professional Data Engineer学習プログラム 
 [スマート アナリティクスとデータ管理](https://cloud.google.com/training/data-ml?hl=ja#data-engineer-learning-path)
 
-- Quest: [Cloud リソースの作成と管理](https://google.qwiklabs.com/quests/120)
-  - Set Up Network and HTTP Load Balancers
+- Quest: [Cloud リソースの作成と管理](https://google.qwiklabs.com/focuses/12007?parent=catalog)
+  - [Set Up Network and HTTP Load Balancers](qwiklabs-richard-challenge)
   - Create and Manage Cloud Resources: Challenge Lab
 - Quest: [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://google.qwiklabs.com/quests/117)
   - AI Platform: Qwik Start
