@@ -22,7 +22,9 @@
   - Lab: [Predict Visitor Purchases with a Classification Model in BQML](https://google.qwiklabs.com/focuses/1794?parent=catalog)
   - Lab: [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://google.qwiklabs.com/focuses/3528?parent=catalog)
   - Lab: [Engineer Data in Google Cloud: Challenge Lab](https://google.qwiklabs.com/focuses/12379?parent=catalog)
-
+- Quest: [Insights from Data with BigQuery](https://google.qwiklabs.com/quests/123)
+- Quest: [Create ML Models with BigQuery ML](https://google.qwiklabs.com/quests/146)
+- Quest: [Build and Optimize Data Warehouses with BigQuery](https://google.qwiklabs.com/quests/147)
 https://amazon.qwiklabs.com/catalog
 
 - [Introduction to AWS Identity and Access Management (IAM)](https://amazon.qwiklabs.com/focuses/15717?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Afalse%7D&parent=catalog)
