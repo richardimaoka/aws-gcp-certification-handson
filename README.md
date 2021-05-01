@@ -34,7 +34,7 @@ https://amazon.qwiklabs.com/catalog
 - [Quest: Serverless Web Apps Using Amazon Dynamo DB](https://amazon.qwiklabs.com/quests/21)
 - [Quest: Big Data on AWS](https://amazon.qwiklabs.com/quests/5)
 
-- Introduction to Elastic Load Balancing
+- [Introduction to Elastic Load Balancing](https://amazon.qwiklabs.com/focuses/16489)
 - Working with Elastic Load Balancing
 - Introduction to Amazon CloudFront
 - Streaming Dynamic Content using Amazon CloudFront
