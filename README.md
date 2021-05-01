@@ -34,23 +34,23 @@ https://amazon.qwiklabs.com/catalog
 - [Quest: Serverless Web Apps Using Amazon Dynamo DB](https://amazon.qwiklabs.com/quests/21)
 - [Quest: Big Data on AWS](https://amazon.qwiklabs.com/quests/5)
 
-- [Introduction to Elastic Load Balancing](https://amazon.qwiklabs.com/focuses/16489)
-- Working with Elastic Load Balancing
-- Introduction to Amazon CloudFront
-- Streaming Dynamic Content using Amazon CloudFront
-- Introduction to Amazon EC2 Auto Scaling
-- Securing VPC Resources with Security Groups
-- [Introduction to AWS Identity and Access Management (IAM)](https://amazon.qwiklabs.com/focuses/15717?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Afalse%7D&parent=catalog)
-- [Introduction to Amazon API Gateway](https://amazon.qwiklabs.com/focuses/10383?parent=catalog)
-- [Introduction to Amazon DynamoDB](https://amazon.qwiklabs.com/focuses/14815?parent=catalog)
-- AWS Federated Authentication with AD FS
-- Monitoring Security Groups with AWS Config
-- Using Amazon Simple Storage Service (Amazon S3) event notifications and batch operations
-- Amazon DynamoDB Scans, Queries, and Indexes
-- Amazon DynamoDB Capacity Sizing
-- Introduction to Amazon Aurora
-- Introduction to Amazon Elastic Block Store (Amazon EBS)
-- AWS Cloud Development Kit
-- Implementing Multi-Region Backup with Amazon S3 Cross-Region Replication
-- Update Security Groups Automatically Using AWS Lambda
-- 
+- Labs:
+  - [Introduction to Elastic Load Balancing](https://amazon.qwiklabs.com/focuses/16489)
+  - Working with Elastic Load Balancing
+  - Introduction to Amazon CloudFront
+  - Streaming Dynamic Content using Amazon CloudFront
+  - Introduction to Amazon EC2 Auto Scaling
+  - Securing VPC Resources with Security Groups
+  - [Introduction to AWS Identity and Access Management (IAM)](https://amazon.qwiklabs.com/focuses/15717?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Afalse%7D&parent=catalog)
+  - [Introduction to Amazon API Gateway](https://amazon.qwiklabs.com/focuses/10383?parent=catalog)
+  - [Introduction to Amazon DynamoDB](https://amazon.qwiklabs.com/focuses/14815?parent=catalog)
+  - AWS Federated Authentication with AD FS
+  - Monitoring Security Groups with AWS Config
+  - Using Amazon Simple Storage Service (Amazon S3) event notifications and batch operations
+  - Amazon DynamoDB Scans, Queries, and Indexes
+  - Amazon DynamoDB Capacity Sizing
+  - Introduction to Amazon Aurora
+  - Introduction to Amazon Elastic Block Store (Amazon EBS)
+  - AWS Cloud Development Kit
+  - Implementing Multi-Region Backup with Amazon S3 Cross-Region Replication
+  - Update Security Groups Automatically Using AWS Lambda
