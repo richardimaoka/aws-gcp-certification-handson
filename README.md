@@ -35,7 +35,7 @@ https://amazon.qwiklabs.com/catalog
 - [Quest: Big Data on AWS](https://amazon.qwiklabs.com/quests/5)
 
 - Labs:
-  - [Introduction to Elastic Load Balancing](https://amazon.qwiklabs.com/focuses/16489)
+  - [Introduction to Elastic Load Balancing](https://amazon.qwiklabs.com/focuses/16489?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10697433)
   - Working with Elastic Load Balancing
   - Introduction to Amazon CloudFront
   - Streaming Dynamic Content using Amazon CloudFront
