@@ -29,6 +29,8 @@ https://amazon.qwiklabs.com/catalog
 
 ## [AWS](https://amazon.qwiklabs.com/catalog)
 
+https://workshops.aws/
+
 - [Quest: Storage & CDN](https://amazon.qwiklabs.com/quests/9)
 - [Quest: Serverless Design with AWS Lambda](https://amazon.qwiklabs.com/quests/17)
 - [Quest: Serverless Web Apps Using Amazon Dynamo DB](https://amazon.qwiklabs.com/quests/21)
