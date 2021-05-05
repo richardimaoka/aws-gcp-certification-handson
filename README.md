@@ -6,7 +6,7 @@
   - Create and Manage Cloud Resources: Challenge Lab
 - Quest: [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://google.qwiklabs.com/quests/117)
   - [AI Platform: Qwik Start](https://google.qwiklabs.com/focuses/581?parent=catalog)
-  - Dataprep: Qwik Start
+  - [Dataprep: Qwik Start](https://google.qwiklabs.com/focuses/584?parent=catalog)
   - [Dataflow: Qwik Start - Templates](https://google.qwiklabs.com/focuses/1101?parent=catalog)
   - Dataflow: Qwik Start - Python
   - Dataproc: Qwik Start - Console
