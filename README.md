@@ -1,6 +1,16 @@
 ## Google Professional Data Engineer学習プログラム 
 [スマート アナリティクスとデータ管理](https://cloud.google.com/training/data-ml?hl=ja#data-engineer-learning-path)
 
+- Coursera
+  - Course: [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals)
+  - Specialization: [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
+    - Course: [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals)
+    - Course: Modernizing Data Lakes and Data Warehouses with GCP
+    - Course: Building Batch Data Pipelines on GCP
+    - Course: Building Resilient Streaming Analytics Systems on Gcp
+
+
+
 - Quest: [Cloud リソースの作成と管理](https://google.qwiklabs.com/focuses/12007?parent=catalog)
   - [Set Up Network and HTTP Load Balancers](https://google.qwiklabs.com/focuses/12007?parent=catalog)
   - Create and Manage Cloud Resources: Challenge Lab
