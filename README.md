@@ -8,7 +8,7 @@
   - [AI Platform: Qwik Start](https://google.qwiklabs.com/focuses/581?parent=catalog)
   - [Dataprep: Qwik Start](https://google.qwiklabs.com/focuses/584?parent=catalog)
   - [Dataflow: Qwik Start - Templates](https://google.qwiklabs.com/focuses/1101?parent=catalog)
-  - Dataflow: Qwik Start - Python
+  - [Dataflow: Qwik Start - Python](https://google.qwiklabs.com/focuses/1100?parent=catalog)
   - Dataproc: Qwik Start - Console
   - Dataproc: Qwik Start - Command Line
   - Cloud Natural Language API: Qwik Start
