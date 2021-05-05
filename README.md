@@ -3,12 +3,12 @@
 
 - Coursera
   - Course: [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals)
-  - Specialization: [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
+  - Specialization: [Data Engineering on Google Cloud Platform](https://www.coursera.org/specializations/gcp-data-machine-learning)
     - Course: [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals)
     - Course: Modernizing Data Lakes and Data Warehouses with GCP
     - Course: Building Batch Data Pipelines on GCP
     - Course: Building Resilient Streaming Analytics Systems on Gcp
-
+  - Course: [Preparing for the Professional Data Engineer Examination](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam)
 
 
 - Quest: [Cloud リソースの作成と管理](https://google.qwiklabs.com/focuses/12007?parent=catalog)
