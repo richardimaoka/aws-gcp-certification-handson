@@ -48,7 +48,7 @@ https://workshops.aws/
 
 - Labs:
   - [Introduction to Elastic Load Balancing](https://amazon.qwiklabs.com/focuses/16489?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10697433)
-  - Working with Elastic Load Balancing
+  - [Working with Elastic Load Balancing](https://www.qwiklabs.com/focuses/14125?catalog_rank=%7B%22rank%22%3A17%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10765208)
   - [Introduction to Amazon CloudFront](https://amazon.qwiklabs.com/focuses/15612?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10749653)
   - [Streaming Dynamic Content using Amazon CloudFront](https://amazon.qwiklabs.com/focuses/16220?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10750020)
   - [Introduction to Amazon EC2 Auto Scaling](https://www.qwiklabs.com/focuses/14834?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10765006)
