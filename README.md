@@ -40,10 +40,25 @@ https://amazon.qwiklabs.com/catalog
 ## [AWS](https://amazon.qwiklabs.com/catalog)
 
 https://workshops.aws/
+
+- Infrastructure Identity on AWS
+- Access Delegation
+- AWS workshop: Network Immersion Day = https://networking.workshop.aws/beginner/lab4.html
+- AWS workshop: Observability Workshop = https://observability.workshop.aws/en/
+- AWS Storage Workshop = https://storage-on-aws.workshop.aws/
+- Volume Gateway Performance Workshop
+- S3 Game
+- Active Directory on AWS Immersion Day
+- Migrating Microsoft Workloads to AWS
+- Content Acceleration with Amazon CloudFront
+- Content Generation Lambda@Edge
+- Scaling Elastic Beanstalk using custom CloudWatch metrics
+- Async-messaging Workshop
+- Real Time Streaming with Kinesis
+
 https://www.aws.training/
 
-- [AWS workshop: Network Immersion Day](https://networking.workshop.aws/beginner/lab4.html)
-
+Quicklabs:
 
 - [Quest: Storage & CDN](https://amazon.qwiklabs.com/quests/9)
 - [Quest: Serverless Design with AWS Lambda](https://amazon.qwiklabs.com/quests/17)
