@@ -40,6 +40,7 @@ https://amazon.qwiklabs.com/catalog
 ## [AWS](https://amazon.qwiklabs.com/catalog)
 
 https://workshops.aws/
+https://www.aws.training/
 
 - [Quest: Storage & CDN](https://amazon.qwiklabs.com/quests/9)
 - [Quest: Serverless Design with AWS Lambda](https://amazon.qwiklabs.com/quests/17)
