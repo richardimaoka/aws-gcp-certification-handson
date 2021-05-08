@@ -42,6 +42,9 @@ https://amazon.qwiklabs.com/catalog
 https://workshops.aws/
 https://www.aws.training/
 
+- [AWS workshop: Network Immersion Day](https://networking.workshop.aws/beginner/lab4.html)
+
+
 - [Quest: Storage & CDN](https://amazon.qwiklabs.com/quests/9)
 - [Quest: Serverless Design with AWS Lambda](https://amazon.qwiklabs.com/quests/17)
 - [Quest: Serverless Web Apps Using Amazon Dynamo DB](https://amazon.qwiklabs.com/quests/21)
