@@ -37,7 +37,41 @@
 - Quest: [Build and Optimize Data Warehouses with BigQuery](https://google.qwiklabs.com/quests/147)
 https://amazon.qwiklabs.com/catalog
 
-## [AWS](https://amazon.qwiklabs.com/catalog)
+## AWS
+
+[Quicklabs:](https://www.qwiklabs.com/catalog?cloud=AWS&per_page=50)
+
+- [Quest: Storage & CDN](https://amazon.qwiklabs.com/quests/9)
+- [Quest: Serverless Design with AWS Lambda](https://amazon.qwiklabs.com/quests/17)
+- [Quest: Serverless Web Apps Using Amazon Dynamo DB](https://amazon.qwiklabs.com/quests/21)
+- [Quest: Big Data on AWS](https://amazon.qwiklabs.com/quests/5)
+
+- Labs:
+  - Monitoring Security Groups with Amazon CloudWatch Events
+  - Collecting and Analyzing Logs with Amazon CloudWatch Logs Insights
+  - Monitoring a Live Streaming Workflow with Amazon CloudWatch
+  - Performing a Basic Audit of your AWS Environment
+  - Centralized Log Processing with Amazon Elasticsearch Service
+  - Using AWS Lambda with Amazon CloudWatch and SNS to Implement a Slack Chat Bot
+  - AWS Federated Authentication with AD FS
+  - Using Amazon Simple Storage Service (Amazon S3) event notifications and batch operations
+  - Amazon DynamoDB Scans, Queries, and Indexes
+  - Amazon DynamoDB Capacity Sizing
+  - Introduction to Amazon Aurora
+  - Introduction to Amazon Elastic Block Store (Amazon EBS)
+  - AWS Cloud Development Kit
+  - Implementing Multi-Region Backup with Amazon S3 Cross-Region Replication
+  - Update Security Groups Automatically Using AWS Lambda
+  - [Monitoring Security Groups with AWS Config](https://www.qwiklabs.com/focuses/17923?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10812115)
+  - [Introduction to Elastic Load Balancing](https://amazon.qwiklabs.com/focuses/16489?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10697433)
+  - [Working with Elastic Load Balancing](https://www.qwiklabs.com/focuses/14125?catalog_rank=%7B%22rank%22%3A17%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10765208)
+  - [Introduction to Amazon CloudFront](https://amazon.qwiklabs.com/focuses/15612?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10749653)
+  - [Streaming Dynamic Content using Amazon CloudFront](https://amazon.qwiklabs.com/focuses/16220?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10750020)
+  - [Introduction to Amazon EC2 Auto Scaling](https://www.qwiklabs.com/focuses/14834?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10765006)
+  - [Securing VPC Resources with Security Groups](https://www.qwiklabs.com/focuses/16200?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10765348)
+  - [Introduction to AWS Identity and Access Management (IAM)](https://amazon.qwiklabs.com/focuses/18002?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10708808)
+  - [Introduction to Amazon API Gateway](https://amazon.qwiklabs.com/focuses/10383?parent=catalog)
+  - [Introduction to Amazon DynamoDB](https://amazon.qwiklabs.com/focuses/14815?parent=catalog)
 
 https://workshops.aws/
 
@@ -64,30 +98,3 @@ https://www.aws.training/
 - Getting Started with AWS Security, Identity, and Compliance
 
 
-[Quicklabs:](https://www.qwiklabs.com/catalog?cloud=AWS&per_page=50)
-
-- [Quest: Storage & CDN](https://amazon.qwiklabs.com/quests/9)
-- [Quest: Serverless Design with AWS Lambda](https://amazon.qwiklabs.com/quests/17)
-- [Quest: Serverless Web Apps Using Amazon Dynamo DB](https://amazon.qwiklabs.com/quests/21)
-- [Quest: Big Data on AWS](https://amazon.qwiklabs.com/quests/5)
-
-- Labs:
-  - [Introduction to Elastic Load Balancing](https://amazon.qwiklabs.com/focuses/16489?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10697433)
-  - [Working with Elastic Load Balancing](https://www.qwiklabs.com/focuses/14125?catalog_rank=%7B%22rank%22%3A17%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10765208)
-  - [Introduction to Amazon CloudFront](https://amazon.qwiklabs.com/focuses/15612?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10749653)
-  - [Streaming Dynamic Content using Amazon CloudFront](https://amazon.qwiklabs.com/focuses/16220?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10750020)
-  - [Introduction to Amazon EC2 Auto Scaling](https://www.qwiklabs.com/focuses/14834?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10765006)
-  - [Securing VPC Resources with Security Groups](https://www.qwiklabs.com/focuses/16200?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10765348)
-  - [Introduction to AWS Identity and Access Management (IAM)](https://amazon.qwiklabs.com/focuses/18002?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10708808)
-  - [Introduction to Amazon API Gateway](https://amazon.qwiklabs.com/focuses/10383?parent=catalog)
-  - [Introduction to Amazon DynamoDB](https://amazon.qwiklabs.com/focuses/14815?parent=catalog)
-  - AWS Federated Authentication with AD FS
-  - Monitoring Security Groups with AWS Config
-  - Using Amazon Simple Storage Service (Amazon S3) event notifications and batch operations
-  - Amazon DynamoDB Scans, Queries, and Indexes
-  - Amazon DynamoDB Capacity Sizing
-  - Introduction to Amazon Aurora
-  - Introduction to Amazon Elastic Block Store (Amazon EBS)
-  - AWS Cloud Development Kit
-  - Implementing Multi-Region Backup with Amazon S3 Cross-Region Replication
-  - Update Security Groups Automatically Using AWS Lambda
