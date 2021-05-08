@@ -58,6 +58,12 @@ https://workshops.aws/
 
 https://www.aws.training/
 
+- Amazon Connect: Troubleshooting with Cloudwatch
+- Deep Dive with Security: AWS Identity and Access Management (IAM)
+- Configuration, Compliance, and Auditing with AWS Config and AWS CloudTrail
+- Getting Started with AWS Security, Identity, and Compliance
+
+
 Quicklabs:
 
 - [Quest: Storage & CDN](https://amazon.qwiklabs.com/quests/9)
