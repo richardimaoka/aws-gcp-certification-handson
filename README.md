@@ -64,7 +64,7 @@ https://www.aws.training/
 - Getting Started with AWS Security, Identity, and Compliance
 
 
-Quicklabs:
+[Quicklabs:](https://www.qwiklabs.com/catalog?cloud=AWS&per_page=50)
 
 - [Quest: Storage & CDN](https://amazon.qwiklabs.com/quests/9)
 - [Quest: Serverless Design with AWS Lambda](https://amazon.qwiklabs.com/quests/17)
