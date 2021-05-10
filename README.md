@@ -48,7 +48,7 @@ https://amazon.qwiklabs.com/catalog
 
 - Labs:
   - [Monitoring Security Groups with Amazon CloudWatch Events](https://www.qwiklabs.com/focuses/15504?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10847282)
-  - Collecting and Analyzing Logs with Amazon CloudWatch Logs Insights
+  - [Collecting and Analyzing Logs with Amazon CloudWatch Logs Insights](https://www.qwiklabs.com/focuses/15723?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10847693)
   - Monitoring a Live Streaming Workflow with Amazon CloudWatch
   - Performing a Basic Audit of your AWS Environment
   - Centralized Log Processing with Amazon Elasticsearch Service
