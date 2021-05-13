@@ -52,7 +52,6 @@ https://amazon.qwiklabs.com/catalog
   - [Monitoring a Live Streaming Workflow with Amazon CloudWatch](https://www.qwiklabs.com/focuses/15884?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10903683)
   - Building a Live Video Channel with MediaLive, MediaPackage and CloudFront
   - Performing a Basic Audit of your AWS Environment
-  - [Caching Static Files with Amazon CloudFront](https://www.qwiklabs.com/focuses/15568?parent=catalog)
   - Centralized Log Processing with Amazon Elasticsearch Service
   - Using AWS Lambda with Amazon CloudWatch and SNS to Implement a Slack Chat Bot
   - AWS Federated Authentication with AD FS
@@ -68,6 +67,8 @@ https://amazon.qwiklabs.com/catalog
   - [Introduction to Elastic Load Balancing](https://amazon.qwiklabs.com/focuses/16489?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10697433)
   - [Working with Elastic Load Balancing](https://www.qwiklabs.com/focuses/14125?catalog_rank=%7B%22rank%22%3A17%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10765208)
   - [Introduction to Amazon CloudFront](https://amazon.qwiklabs.com/focuses/15612?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10749653)
+  - Working with Amazon CloudFront for Dynamic Content Acceleration
+  - [Caching Static Files with Amazon CloudFront](https://www.qwiklabs.com/focuses/15568?parent=catalog)
   - [Streaming Dynamic Content using Amazon CloudFront](https://amazon.qwiklabs.com/focuses/16220?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10750020)
   - [Introduction to Amazon EC2 Auto Scaling](https://www.qwiklabs.com/focuses/14834?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10765006)
   - [Securing VPC Resources with Security Groups](https://www.qwiklabs.com/focuses/16200?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10765348)
