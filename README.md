@@ -52,6 +52,7 @@ https://amazon.qwiklabs.com/catalog
   - [Monitoring a Live Streaming Workflow with Amazon CloudWatch](https://www.qwiklabs.com/focuses/15884?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10903683)
   - Building a Live Video Channel with MediaLive, MediaPackage and CloudFront
   - Performing a Basic Audit of your AWS Environment
+  - [Caching Static Files with Amazon CloudFront](https://www.qwiklabs.com/focuses/15568?parent=catalog)
   - Centralized Log Processing with Amazon Elasticsearch Service
   - Using AWS Lambda with Amazon CloudWatch and SNS to Implement a Slack Chat Bot
   - AWS Federated Authentication with AD FS
