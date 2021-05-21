@@ -58,6 +58,7 @@ https://amazon.qwiklabs.com/catalog
   - Using Amazon Simple Storage Service (Amazon S3) event notifications and batch operations
   - Amazon DynamoDB Scans, Queries, and Indexes
   - Amazon DynamoDB Capacity Sizing
+  - [Introduction to AWS Lambda](https://www.qwiklabs.com/focuses/16506?parent=catalog)
   - Introduction to Amazon Aurora
   - Introduction to Amazon Elastic Block Store (Amazon EBS)
   - AWS Cloud Development Kit
