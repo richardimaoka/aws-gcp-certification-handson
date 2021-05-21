@@ -58,6 +58,7 @@ https://amazon.qwiklabs.com/catalog
   - Using Amazon Simple Storage Service (Amazon S3) event notifications and batch operations
   - Amazon DynamoDB Scans, Queries, and Indexes
   - Amazon DynamoDB Capacity Sizing
+  - [Build a Serverless Text-to-Speech Application with Amazon Polly](https://www.qwiklabs.com/focuses/17730?parent=catalog)
   - [Introduction to AWS Lambda](https://www.qwiklabs.com/focuses/16506?parent=catalog)
   - Introduction to Amazon Aurora
   - Introduction to Amazon Elastic Block Store (Amazon EBS)
