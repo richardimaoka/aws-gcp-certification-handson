@@ -19,7 +19,7 @@
   - [Dataprep: Qwik Start](https://google.qwiklabs.com/focuses/584?parent=catalog)
   - [Dataflow: Qwik Start - Templates](https://google.qwiklabs.com/focuses/1101?parent=catalog)
   - [Dataflow: Qwik Start - Python](https://google.qwiklabs.com/focuses/1100?parent=catalog)
-  - Dataproc: Qwik Start - Console
+  - [Dataproc: Qwik Start - Console](https://www.qwiklabs.com/focuses/586?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=11076742)
   - [Dataproc: Qwik Start - Command Line](https://www.qwiklabs.com/focuses/585?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=11076367)
   - Cloud Natural Language API: Qwik Start
   - Google Cloud Speech API: Qwik Start
