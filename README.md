@@ -33,6 +33,15 @@
   - Lab: [Cloud Composer: Copying BigQuery Tables Across Different Locations](https://google.qwiklabs.com/focuses/3528?parent=catalog)
   - Lab: [Engineer Data in Google Cloud: Challenge Lab](https://google.qwiklabs.com/focuses/12379?parent=catalog)
 - Quest: [Insights from Data with BigQuery](https://google.qwiklabs.com/quests/123)
+  - [Introduction to SQL for BigQuery and Cloud SQL](https://google.qwiklabs.com/focuses/2802?parent=catalog#)
+  - BigQuery: Qwik Start - Console
+  - BigQuery: Qwik Start - Qwiklabs Preview.
+  - BigQuery: Qwik Start - Command Line
+  - Google BigQuery and BigQuery: Qwik Start - Qwiklabs Preview.
+  - Exploring Your Ecommerce Dataset with SQL in Google BigQuery
+  - Troubleshooting Common SQL Errors with BigQuery
+  - Explore and Create Reports with Data Studio
+  - Insights from Data with BigQuery: Challenge Lab
 - Quest: [Create ML Models with BigQuery ML](https://google.qwiklabs.com/quests/146)
 - Quest: [Build and Optimize Data Warehouses with BigQuery](https://google.qwiklabs.com/quests/147)
 https://amazon.qwiklabs.com/catalog
