@@ -63,7 +63,7 @@ https://amazon.qwiklabs.com/catalog
   - [Performing a Basic Audit of your AWS Environment](https://www.qwiklabs.com/focuses/14162?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10924310)
   - [Centralized Log Processing with Amazon Elasticsearch Service](https://www.qwiklabs.com/focuses/15602?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=11028300)
   - [Using AWS Lambda with Amazon CloudWatch and SNS to Implement a Slack Chat Bot](https://www.qwiklabs.com/focuses/17697?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10959359)
-  - AWS Federated Authentication with AD FS
+  - [AWS Federated Authentication with AD FS](https://www.qwiklabs.com/focuses/16312?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=11134531)
   - Using Amazon Simple Storage Service (Amazon S3) event notifications and batch operations
   - Amazon DynamoDB Scans, Queries, and Indexes
   - Amazon DynamoDB Capacity Sizing
