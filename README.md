@@ -65,7 +65,7 @@ https://amazon.qwiklabs.com/catalog
   - [AWS Federated Authentication with AD FS](https://www.qwiklabs.com/focuses/16312?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=11134531)
   - Using Amazon Simple Storage Service (Amazon S3) event notifications and batch operations
   - [Amazon DynamoDB Scans, Queries, and Indexes](https://www.qwiklabs.com/focuses/17854?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=11320786)
-  - Amazon DynamoDB Capacity Sizing
+  - [Amazon DynamoDB Capacity Sizing](https://www.qwiklabs.com/focuses/16444?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=11321631)
   - [Build a Serverless Text-to-Speech Application with Amazon Polly](https://www.qwiklabs.com/focuses/17730?parent=catalog)
   - [Introduction to AWS Lambda](https://www.qwiklabs.com/focuses/16506?parent=catalog)
   - Introduction to Amazon Aurora
