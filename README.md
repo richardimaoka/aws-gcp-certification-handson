@@ -36,8 +36,7 @@
   - [Introduction to SQL for BigQuery and Cloud SQL](https://google.qwiklabs.com/focuses/2802?parent=catalog#)
   - [BigQuery: Qwik Start - Console](https://google.qwiklabs.com/focuses/1145?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=11308724)
   - [BigQuery: Qwik Start - Command Line](https://google.qwiklabs.com/focuses/577?parent=catalog)
-  - Google BigQuery and BigQuery: Qwik Start - Qwiklabs Preview.
-  - Exploring Your Ecommerce Dataset with SQL in Google BigQuery
+  - [Exploring Your Ecommerce Dataset with SQL in Google BigQuery](https://google.qwiklabs.com/focuses/3618?parent=catalog)
   - Troubleshooting Common SQL Errors with BigQuery
   - Explore and Create Reports with Data Studio
   - Insights from Data with BigQuery: Challenge Lab
