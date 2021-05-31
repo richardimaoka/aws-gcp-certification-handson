@@ -38,7 +38,7 @@
   - [BigQuery: Qwik Start - Command Line](https://google.qwiklabs.com/focuses/577?parent=catalog)
   - [Exploring Your Ecommerce Dataset with SQL in Google BigQuery](https://google.qwiklabs.com/focuses/3618?parent=catalog)
   - [Troubleshooting Common SQL Errors with BigQuery](https://google.qwiklabs.com/focuses/3642?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=11337430)
-  - Explore and Create Reports with Data Studio
+  - [Explore and Create Reports with Data Studio](https://google.qwiklabs.com/focuses/3614?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=11338008)
   - Insights from Data with BigQuery: Challenge Lab
 - Quest: [Create ML Models with BigQuery ML](https://google.qwiklabs.com/quests/146)
 - Quest: [Build and Optimize Data Warehouses with BigQuery](https://google.qwiklabs.com/quests/147)
