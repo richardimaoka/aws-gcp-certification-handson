@@ -86,7 +86,7 @@ https://amazon.qwiklabs.com/catalog
   - [Introduction to Amazon DynamoDB](https://amazon.qwiklabs.com/focuses/14815?parent=catalog)
   - [Serverless Web Apps using Amazon DynamoDB - Part 1](https://www.qwiklabs.com/focuses/17856?parent=catalog)
   - [Serverless Web Apps using Amazon DynamoDB - Part 2](https://www.qwiklabs.com/focuses/18135?parent=catalog)
-  - [Serverless Web Apps using Amazon DynamoDB - Part 3]()
+  - [Serverless Web Apps using Amazon DynamoDB - Part 3](https://www.qwiklabs.com/focuses/17853?parent=catalog)
 
 https://workshops.aws/
 
