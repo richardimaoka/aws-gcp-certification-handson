@@ -84,6 +84,9 @@ https://amazon.qwiklabs.com/catalog
   - [Introduction to AWS Identity and Access Management (IAM)](https://amazon.qwiklabs.com/focuses/18002?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=10708808)
   - [Introduction to Amazon API Gateway](https://amazon.qwiklabs.com/focuses/10383?parent=catalog)
   - [Introduction to Amazon DynamoDB](https://amazon.qwiklabs.com/focuses/14815?parent=catalog)
+  - [Serverless Web Apps using Amazon DynamoDB - Part 1](https://www.qwiklabs.com/focuses/17856?parent=catalog)
+  - [Serverless Web Apps using Amazon DynamoDB - Part 2](https://www.qwiklabs.com/focuses/18135?parent=catalog)
+  - [Serverless Web Apps using Amazon DynamoDB - Part 3]()
 
 https://workshops.aws/
 
