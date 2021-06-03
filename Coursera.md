@@ -1,26 +1,27 @@
 ## Google Professional Data Engineer学習プログラム 
 [スマート アナリティクスとデータ管理](https://cloud.google.com/training/data-ml?hl=ja#data-engineer-learning-path)
 
-Data Engineer learning path
-Big Data & Machine Learning Fundamentals
-  Course: Google Cloud Platform Big Data and Machine Learning Fundamentals
-Data Engineering on Google Cloud Platform
-  Specialization: Data Engineering, Big Data, and Machine Learning on GCP Specialization
-Preparing for the Professional Data Engineer Examination
-  Course: Preparing for the Google Cloud Professional Data Engineer Exam
+### Data Engineer learning path
 
-Data Analytst Learning Path
-From Data to Insights with Google Cloud Platform
-  Specialization: From Data to Insights with Google Cloud Platform Specialization
-Big Data & Machine Learning Fundamentals
-  Course: Google Cloud Platform Big Data and Machine Learning Fundamentals
+- Big Data & Machine Learning Fundamentals
+  - Course: Google Cloud Platform Big Data and Machine Learning Fundamentals
+- Data Engineering on Google Cloud Platform
+  - Specialization: Data Engineering, Big Data, and Machine Learning on GCP Specialization
+- Preparing for the Professional Data Engineer Examination
+  - Course: Preparing for the Google Cloud Professional Data Engineer Exam
+
+### Data Analytst Learning Path
+- From Data to Insights with Google Cloud Platform
+  - Specialization: From Data to Insights with Google Cloud Platform Specialization
+- Big Data & Machine Learning Fundamentals
+  - Course: Google Cloud Platform Big Data and Machine Learning Fundamentals
 
 
-Database Engineer Learning Path
-Developing Applications on Google Cloud
-  Specialization: Developing Applications with Google Cloud Platform Specialization
-Enterprise Database Migration
-  Course: Enterprise Database Migration
+### Database Engineer Learning Path
+- Developing Applications on Google Cloud
+  - Specialization: Developing Applications with Google Cloud Platform Specialization
+- Enterprise Database Migration
+  - Course: Enterprise Database Migration
   
  
 - Coursera
