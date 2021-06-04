@@ -4,3 +4,4 @@
 - set up AWS CLI multiple profiles
 - followed [this](https://aws.amazon.com/premiumsupport/knowledge-center/cross-account-access-s3/) and performed cross-account s3 obj put, and playing around more with s3 acl
 - played around with s3 replications https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html
+- tried suspending versioning.
