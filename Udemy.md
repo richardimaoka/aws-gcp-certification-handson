@@ -1,2 +1,3 @@
 - [installed aws cli](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html#cliv2-linux-install)
 - found where AWS root access key is located, and confirmed I don't have any.
+- saw ACL on S3 editor window
