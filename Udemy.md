@@ -2,4 +2,4 @@
 - found where AWS root access key is located, and confirmed I don't have any.
 - saw ACL on S3 editor window, and owner
 - set up AWS CLI multiple profiles
-- followed [this](https://aws.amazon.com/premiumsupport/knowledge-center/cross-account-access-s3/) and performed cross-account s3 obj put
+- followed [this](https://aws.amazon.com/premiumsupport/knowledge-center/cross-account-access-s3/) and performed cross-account s3 obj put, and playing around more with s3 acl
