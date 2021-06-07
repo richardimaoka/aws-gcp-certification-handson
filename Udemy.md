@@ -6,4 +6,4 @@
 - played around with s3 replications https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html
 - tried suspending versioning.
 - S3 lifecycle configuration window
-- created virtual private gateway
+- created virtual private gateway, site-to-site vpn
