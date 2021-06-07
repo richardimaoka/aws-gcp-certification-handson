@@ -7,3 +7,4 @@
 - tried suspending versioning.
 - S3 lifecycle configuration window
 - created virtual private gateway, site-to-site vpn
+- s3 transfer acceleration management window
