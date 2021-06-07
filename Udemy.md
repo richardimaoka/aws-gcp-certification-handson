@@ -8,3 +8,4 @@
 - S3 lifecycle configuration window
 - created virtual private gateway, site-to-site vpn
 - s3 transfer acceleration management window
+- aws waf console, and load balancer association
