@@ -12,3 +12,4 @@
 - tested ec2 default cloudwatch metrics
 - Macie on mgmt console
 - Inspector on mgmt console
+- s3 event notification
