@@ -10,3 +10,4 @@
 - s3 transfer acceleration management window
 - aws waf console, and load balancer association
 - tested ec2 default cloudwatch metrics
+- macie on mgmt console
