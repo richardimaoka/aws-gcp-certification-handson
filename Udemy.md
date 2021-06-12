@@ -12,4 +12,4 @@
 - tested ec2 default cloudwatch metrics
 - Macie on mgmt console
 - Inspector on mgmt console
-- s3 event notification
+- s3 event notification, following [tutorial](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ways-to-add-notification-config-to-bucket.html)
