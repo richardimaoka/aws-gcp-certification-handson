@@ -13,3 +13,4 @@
 - Macie on mgmt console
 - Inspector on mgmt console
 - s3 event notification, following [tutorial](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ways-to-add-notification-config-to-bucket.html)
+  - tried different policies for setting up event notifications
