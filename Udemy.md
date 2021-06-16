@@ -16,3 +16,4 @@
   - tried different policies for setting up event notifications
 - configured cloudtrail from console
 - created DynamoDB table and check configurations
+- connected through vpc endpoints
