@@ -17,3 +17,4 @@
 - configured cloudtrail from console
 - created DynamoDB table and check configurations
 - connected through vpc endpoints
+- tried ssh connect and ubuntu -> ssh -> ec2 
