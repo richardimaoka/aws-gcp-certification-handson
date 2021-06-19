@@ -20,3 +20,4 @@
 - tried ssh connect and ubuntu -> ssh -> ec2 
 - using ec2 instance profile to assume role and get object from s3
 - tweaked security group outboud rules to see if ec2 calling s3api CLI go through the internet, and the answer is yes!!
+- looked at the WAF and AWS shield management console
