@@ -23,3 +23,4 @@
 - looked at the WAF and AWS shield management console
 - dynamo db table settings
 - RDS console and Aurora serverless
+- file gateway 
