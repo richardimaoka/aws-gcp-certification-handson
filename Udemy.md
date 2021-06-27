@@ -24,3 +24,4 @@
 - dynamo db table settings
 - RDS console and Aurora serverless
 - file gateway 
+- looked around rds, cloudwatch, and iam console
