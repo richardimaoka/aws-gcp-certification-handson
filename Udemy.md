@@ -25,4 +25,4 @@
 - RDS console and Aurora serverless
 - file gateway 
 - looked around rds, cloudwatch, and iam console
-- retried s3 cross-account upload to confirm bucket owner ... the owner is an aws acct, not iam user
+- retried s3 cross-account upload to confirm bucket owner ... the owner of an object or bucket is an aws acct, not iam user
