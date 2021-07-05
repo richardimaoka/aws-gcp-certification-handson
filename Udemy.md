@@ -28,3 +28,4 @@
 - retried s3 cross-account upload to confirm bucket owner ... the owner of an object or bucket is an aws acct, not iam user
 - created Cloud Trail and saw how it integrates with S3 and CloudWatch
 - tried auto scaling with instance templates
+- api gateway console
