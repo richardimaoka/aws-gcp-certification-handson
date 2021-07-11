@@ -29,3 +29,4 @@
 - created Cloud Trail and saw how it integrates with S3 and CloudWatch
 - tried auto scaling with instance templates
 - api gateway console
+- elasticache console
