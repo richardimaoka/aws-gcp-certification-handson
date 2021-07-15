@@ -31,3 +31,4 @@
 - api gateway console
 - elasticache console
 - EC2 launch console and EBS settings
+- tried to connect to rds mysql from mysql client and failed
