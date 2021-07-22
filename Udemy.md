@@ -34,3 +34,4 @@
 - tried to connect to rds mysql from mysql client and failed
 - CloudFront console
 - ECS console to bring up nginx container
+- S3 lifecycle configuration UI
