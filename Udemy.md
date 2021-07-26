@@ -36,3 +36,4 @@
 - ECS console to bring up nginx container
 - S3 lifecycle configuration UI
 - RDS Aurora 
+- Scheduled Auto Scaling
