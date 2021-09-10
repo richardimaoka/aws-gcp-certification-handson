@@ -37,3 +37,4 @@
 - S3 lifecycle configuration UI
 - RDS Aurora 
 - Scheduled Auto Scaling
+- tried auto scaling with instance templates
