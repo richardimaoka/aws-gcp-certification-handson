@@ -38,3 +38,4 @@
 - RDS Aurora 
 - Scheduled Auto Scaling
 - tried auto scaling with instance templates
+- aws cli to check how autoscaling is going
